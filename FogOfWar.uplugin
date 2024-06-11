@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FogOfWar",
+	"Description": "Fog of War for RTS games",
+	"Category": "Other",
+	"CreatedBy": "zhmyh1337",
+	"CreatedByURL": "https://github.com/zhmyh1337/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FogOfWar",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
