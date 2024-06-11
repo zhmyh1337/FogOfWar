@@ -1,6 +1,9 @@
 # Overview
 Production ready **Fog of War** mechanic for RTS games in Unreal Engine 5. Check `Content/` folder for usage examples (`Test_FogOfWar` map). Core logic is implemented in C++ with performance in mind. The implementation is grid based with DDA raycasting. Tested in a real game with hundreds of units.
 
+# Demo
+<img src="demo.gif?raw=true">
+
 # Interface
 ## Classes:
 
